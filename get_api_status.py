@@ -8,6 +8,3 @@ print (g1.get_last_api_status_message())
 print (g1.get_api_status_messages())
 print (g1.get_api_status())
 
-#print (g2.get_last_api_status_message())
-#print (g2.get_api_status_messages())
-#print (g2.get_api_status())
